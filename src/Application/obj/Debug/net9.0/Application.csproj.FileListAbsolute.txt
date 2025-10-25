@@ -1,0 +1,30 @@
+D:\PEST API\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Application.deps.json
+D:\PEST API\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Application.dll
+D:\PEST API\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Application.pdb
+D:\PEST API\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Domain.dll
+D:\PEST API\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Domain.pdb
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.dll
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\refint\Application.dll
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.pdb
+D:\PEST API\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\ref\Application.dll
+D:\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Application.deps.json
+D:\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Application.dll
+D:\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Application.pdb
+D:\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Domain.dll
+D:\FactoryMaintenanceSystem\src\Application\bin\Debug\net9.0\Domain.pdb
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.dll
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\refint\Application.dll
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\Application.pdb
+D:\FactoryMaintenanceSystem\src\Application\obj\Debug\net9.0\ref\Application.dll
